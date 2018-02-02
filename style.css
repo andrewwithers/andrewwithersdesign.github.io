@@ -4,9 +4,17 @@
     color: red;
 }*/
 
-body {
-  background-color: yellow; 
+.content {
+    max-width: 500px;
+    margin: auto;
 }
+
+body {
+  background-color: green;
+    margin: auto;
+    width: 50%;
+    border: 3x solid green;
+    padding: 10px;}
 
 p {
 	color: #666576;
