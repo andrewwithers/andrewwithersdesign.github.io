@@ -20,16 +20,17 @@ body {
 
 p {
 	color: #666576;
-    font-family: Comic serif, Courier, sans-serif;
-    font-weight: bolder;
-    color: cyan;
+font-family: 'BioRhyme Expanded', sans-serif;
+    font-weight: bold;
+    color: black;
 }
 
 h1 {
-    font-family: Arial, "Book Antiqua", serif;
+font-family: 'BioRhyme Expanded', serif;
     font-size: 50px;
-    font-weight: lighter;
-  color: yellow;
+    font-weight: bolder;
+    background-color: gold;
+  color: black;
   text-align: center;
 }
 
@@ -46,19 +47,20 @@ h1 {
 #nav li {
     margin: 0;
     padding: 0;
+    font-family: 'BioRhyme Expanded', sans-serif;
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
 }
 
 #nav a:link, a:visited {
 	display:block;
-    color: #FF00FF;
+    color: orange;
     background-color: #98bf21;
     font-weight: bold;
     text-align:center;
     text-decoration: none;
     padding: 4px;
-    font-family: Helvetica, Georgia, sans-serif;
+    font-family: 'BioRhyme Expanded-italic', serif;
 }
 
 ul {
@@ -73,16 +75,16 @@ ul {
 
 .caption {
     color: black;
-    font-family: Georgia, "Times New Roman", serif;
+font-family: 'BioRhyme Expanded', serif;
     font-style: italic;
-    font-size: 0.8em;
+    font-size: 5px;
     margin-top: 0;
     text-align: right;
 }
 
 #footer {
     color: black;
-    font-family: Georgia, "Times New Roman", serif;
+font-family: 'BioRhyme Expanded', serif;
     font-size: 0.8em;
     border-top: 1px solid black;
 }
